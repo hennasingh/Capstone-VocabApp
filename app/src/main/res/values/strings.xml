@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Vocabictionary</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Search Hints -->
+    <string name="search_hint">Type the word to search</string>
+    <string name="header_img_desc">header background books image</string>
+
+    <!-- EditText Errors -->
+    <string name="empty_value">Please enter a valid Word</string>
+    <string name="not_single_value">Please enter a single word</string>
+
+    <!--Domain Names-->
+    <string-array name="domain_list">
+        <item>Architecture</item>
+        <item>Artefacts</item>
+        <item>Athletics</item>
+        <item>Boxing</item>
+        <item>Computing</item>
+        <item>Dance</item>
+        <item>Education</item>
+        <item>Gaming</item>
+        <item>Medicine</item>
+        <item>Mountaineering</item>
+        <item>Photography</item>
+        <item>Sport</item>
+        <item>Technology</item>
+    </string-array>
+
+    <!--Network Errors -->
+    <string name="header_server_error">Server Error, Code - %1$d, Message - %2$s</string>
+    <string name="header_app_error">Android Application Error, Message - %1$s</string>
+
+    <!-- ViewModel Strings -->
+    <string name="lang">en</string>
+    <string name="tv_define_label">Definitions</string>
+    <string name="tv_example_label">Examples</string>
+    <string name="tv_syn_label">Synonyms</string>
+    <string name="tv_antonym_label">Antonyms</string>
+    <string name="word_removed_fav">Word removed from Favorite List</string>
+    <string name="word_added_fav">Word added to Favorite List</string>
+
+    <!--Placeholder Strings-->
+    <string name="placeholder_definition">One who leads or supervises</string>
+    <string name="placeholder_sentence">He is the captain of the soccer team</string>
+    <string name="placeholder_word">Captain</string>
+    <string name="placeholder_phonetic">\'kap-ten\'</string>
+    <string name="placeholder_category">noun</string>
+    <string name="placeholder_messageText">No Search Done Yet</string>
+
+    <!--Dictionary Adapter String -->
+    <string name="no_antonyms">No Antonyms Found</string>
+    <string name="no_synonyms">No Synonyms Found</string>
+    <string name="synonyms_label">Synonyms</string>
+    <string name="antonyms_label">Antonyms</string>
+
+    <!-- XML Errors -->
+    <string name="no_search_text">No Search done Yet</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_fav_text">No word added as Favorite</string>
+
+    <!-- content descriptions -->
+    <string name="ib_search_contentDesc">search button image</string>
+    <string name="fav_ib_contentDesc">select as favorite button</string>
+
+    <!--Ad-mob id -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_widget_text">No Word added as Favorite</string>
+    <string name="title_dictionary">Dictionary</string>
+    <string name="title_thesaurus">Thesaurus</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="words">Words</string>
+
+
+</resources>
