@@ -9,14 +9,14 @@ The app has bottom Navigation View to switch between fragments and allows offlin
 To run the app, please register at [Oxford](https://developer.oxforddictionaries.com/) to get your API key and ID and enter those values in gradle.properties file.
 
 ### Libraries used in the Project
--[Retrofit Networking Library](http://square.github.io/retrofit/)
--[Live Data](https://developer.android.com/topic/libraries/architecture/livedata)
--[Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room)
--[View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
--[Spannable Text](https://developer.android.com/reference/android/text/Spannable)
--[OkHttp Interceptors](https://github.com/square/okhttp/wiki/Interceptors)
--[Stetho](https://github.com/facebook/stetho)
--[Dagger2](https://github.com/google/dagger)
+- [Retrofit Networking Library](http://square.github.io/retrofit/)
+- [Live Data](https://developer.android.com/topic/libraries/architecture/livedata)
+- [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room)
+- [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- [Spannable Text](https://developer.android.com/reference/android/text/Spannable)
+- [OkHttp Interceptors](https://github.com/square/okhttp/wiki/Interceptors)
+- [Stetho](https://github.com/facebook/stetho)
+- [Dagger2](https://github.com/google/dagger)
 
 ## Screenshots
 
