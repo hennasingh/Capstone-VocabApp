@@ -29,7 +29,7 @@ Launch Screen | Dictionary Fragment | Thesaurus Fragment | Favorite Fragment
 
 ## License
 
-This project submitted by Henna Singh is a part of the Nanodegree At Udacity.
+This project submitted by Henna Singh as a part of the Nanodegree At Udacity.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
